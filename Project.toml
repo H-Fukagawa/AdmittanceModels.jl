@@ -16,7 +16,7 @@ UniqueVectors = "2fbcfb34-fd0c-5fbb-b5d7-e826d8f5b0a9"
 [compat]
 Combinatorics = "1"
 Compat = "4"
-IterativeSolvers = "1"
+IterativeSolvers = "0.9"
 MatrixNetworks = "1.0"
 UniqueVectors = "1.2"
 julia = "1"
