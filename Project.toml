@@ -20,7 +20,7 @@ julia = "1.6 - 1.12"
 
 # 依存パッケージの互換バージョン (現在の安定版を想定した例)
 Combinatorics = "1"         # v1.x 系
-IterativeSolvers = "1"    # v1.x 系 (要確認)
+IterativeSolvers = "0.9"    # v1.x 系 (要確認)
 MatrixNetworks = "1"      # v1.x 系 (要確認, 更新が止まっている可能性あり)
 UniqueVectors = "1"       # v1.x 系 (要確認)
 # 標準ライブラリ (Julia 1.6以降はv1.x なので "1" で良い)
